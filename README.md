@@ -1,2 +1,0 @@
-# LTItraining-
-LTI Training Repository
